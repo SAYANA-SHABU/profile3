@@ -1,0 +1,44 @@
+header a{
+   margin-left: 50px;
+   padding: 5px;
+   border-right: 1px solid white;
+   border-left: 1px solid white;
+   text-decoration:none;
+}
+header{
+    border: 2px solid white;
+}
+*{background-color:lightgreen;}
+.header{
+    margin-left: 600px;
+    font-size:xx-large ;
+    text-decoration: underline;
+   
+}
+header a:hover{
+    background-color:darkgreen;
+    color:white;
+}
+#logo{
+    height: 150px;
+    margin-right: 0px;
+    border: 2px solid black;
+    
+}
+.footer
+{color: red;
+    margin-left: 40%;
+    
+
+}
+.aboutme{border: 2px solid white;}
+
+.skills{border: 1px solid white;}
+.education{border: 1px solid white;}
+.experiences{border: 1px solid white;}
+.contact{border: 1px solid white;}
+.top{
+    float: right;
+    margin-top: 10px;
+    margin-right: 140px;
+  }
